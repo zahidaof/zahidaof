@@ -14,7 +14,7 @@ I am passionate about FPGA and digital design, with a keen focus on system integ
 
 ### Skills and Technologies
 
-I possess experience and proficiency in the following areas:
+I possess experience in the following areas:
 
 -FPGA Design and Development
 -Digital Design
