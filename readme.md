@@ -6,9 +6,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/zahidaof/zahidaof/output/github-snake.svg" />
 </picture>
 
-Of course! Here’s the improved version:
 
----
 
 ### About Me
 
