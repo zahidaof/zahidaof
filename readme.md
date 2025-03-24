@@ -7,7 +7,7 @@
 </picture>
 
 ### CV
-[Download My CV](https://github.com/zahidaof/repository-name/cv_zahid_alfahmi.pdf)
+[Download My CV](https://github.com/zahidaof/zahidaof/blob/main/cv%20zahid%20alfahmi.pdf)
 
 
 ### About Me
