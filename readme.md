@@ -6,6 +6,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/zahidaof/zahidaof/output/github-snake.svg" />
 </picture>
 
+### CV
+[Download My CV](https://github.com/zahidaof/repository-name/cv_zahid_alfahmi.pdf)
 
 
 ### About Me
