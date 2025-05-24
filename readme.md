@@ -20,27 +20,22 @@ I possess experience in the following areas:
 
 -FPGA Design and Development
 -Digital Design
--System Integration using FPGA
 -Real-time Processing and Control
--Embedded Systems and Software-Hardware Integration
+-Embedded Systems 
 -Verilog Programming
--Timing Analysis
--Parallel Processing Architectures
--Python, Java, C++/C Programming
--Django Framework
+-Python, Java, Embedded C++/C Programming
 
 ### Interests
 
 My key areas of interest include:
 
-- **Embedded Systems**: Exploring the seamless integration of software and hardware to achieve efficient real-time applications.
-- **Artificial Intelligence**: Accelerating AI algorithms through the innovative use of FPGA technology.
-- **IoT**: Implementing IoT solutions for optimal data processing and connectivity.
-- **Digital Design**: Advancing the field of digital design in various applications.
-- **Convolutional Neural Networks (CNNs) on FPGA**
-- **VLSI (Very-Large-Scale Integration)**: Developing complex integrated circuits by combining thousands of transistors into a single chip.
-- **Semiconductor Technology**: Investigating the properties and applications of semiconductor materials in electronics.
-- **MEMS (Micro-Electro-Mechanical Systems)**: Designing and integrating miniature mechanical and electro-mechanical devices.
+- **Embedded Systems**
+- **Artificial Intelligence**
+- **IoT**
+- **Digital Design**
+- **VLSI (Very-Large-Scale Integration)**
+- **Semiconductor Technology**
+- **MEMS (Micro-Electro-Mechanical Systems)**
 
 
 
