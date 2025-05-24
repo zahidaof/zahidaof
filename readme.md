@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am passionate about FPGA and digital design, with a keen focus on system integration and control using FPGA. My interests also extend to leveraging FPGA for convolutional neural networks (CNNs). I am committed to exploring the potential of FPGA technology across various domains, including real-time processing and embedded systems.
+I'm really passionate about FPGA, digital design, embedded systems, and system integration. I love exploring these technologies and uncovering their potential for open-source applications that can support and inspire other developers.
 
 ### Skills and Technologies
 
