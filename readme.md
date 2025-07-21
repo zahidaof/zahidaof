@@ -33,7 +33,6 @@ My key areas of interest include:
 - **Artificial Intelligence**
 - **IoT**
 - **Digital Design**
-- **VLSI (Very-Large-Scale Integration)**
 - **Semiconductor Technology**
 - **MEMS (Micro-Electro-Mechanical Systems)**
 
