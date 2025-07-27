@@ -23,7 +23,7 @@ I possess experience in the following areas:
 -Real-time Processing and Control
 -Embedded Systems 
 -Verilog Programming
--Python, Java, Embedded C++/C Programming
+-Python, Java, Embedded C Programming
 
 ### Interests
 
