@@ -12,18 +12,17 @@
 
 ### About Me
 
-I'm really passionate about FPGA, digital design, embedded systems, and system integration. I love exploring these technologies and uncovering their potential for open-source applications that can support and inspire other developers.
+I'm really passionate about FPGA, digital design and embedded systemsI love exploring these technologies and uncovering their potential for open-source applications that can support and inspire other developers.
 
 ### Skills and Technologies
 
 I possess experience in the following areas:
 
--FPGA Design and Development
+-FPGA
 -Digital Design
--Real-time Processing and Control
 -Embedded Systems 
 -Verilog Programming
--Python, Java, Embedded C Programming
+-Embedded C Programming
 
 ### Interests
 
@@ -31,7 +30,6 @@ My key areas of interest include:
 
 - **Embedded Systems**
 - **Artificial Intelligence**
-- **IoT**
 - **Digital Design**
 - **Semiconductor Technology**
 - **MEMS (Micro-Electro-Mechanical Systems)**
